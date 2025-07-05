@@ -1,0 +1,72 @@
+[
+  {
+    "userid": 1,
+    "firstname": "User",
+    "lastname": "One",
+    "phonenumber": "1234567801",
+    "email": "user1@example.com"
+  },
+  {
+    "userid": 2,
+    "firstname": "User",
+    "lastname": "Two",
+    "phonenumber": "1234567802",
+    "email": "user2@example.com"
+  },
+  {
+    "userid": 3,
+    "firstname": "User",
+    "lastname": "Three",
+    "phonenumber": "1234567803",
+    "email": "user3@example.com"
+  },
+  {
+    "userid": 4,
+    "firstname": "User",
+    "lastname": "Four",
+    "phonenumber": "1234567804",
+    "email": "user4@example.com"
+  },
+  {
+    "userid": 5,
+    "firstname": "User",
+    "lastname": "Five",
+    "phonenumber": "1234567805",
+    "email": "user5@example.com"
+  },
+  {
+    "userid": 6,
+    "firstname": "User",
+    "lastname": "Six",
+    "phonenumber": "1234567806",
+    "email": "user6@example.com"
+  },
+  {
+    "userid": 7,
+    "firstname": "User",
+    "lastname": "Seven",
+    "phonenumber": "1234567807",
+    "email": "user7@example.com"
+  },
+  {
+    "userid": 8,
+    "firstname": "User",
+    "lastname": "Eight",
+    "phonenumber": "1234567808",
+    "email": "user8@example.com"
+  },
+  {
+    "userid": 9,
+    "firstname": "User",
+    "lastname": "Nine",
+    "phonenumber": "1234567809",
+    "email": "user9@example.com"
+  },
+  {
+    "userid": 10,
+    "firstname": "User",
+    "lastname": "Ten",
+    "phonenumber": "1234567810",
+    "email": "user10@example.com"
+  }
+]
